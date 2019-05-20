@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LabTwo</string>
+    <string name="button">Button</string>
+    <string name="ten">10</string>
+    <string name="game_started">Game is started</string>
+    <string name="textview">TextView</string>
+    <string name="start">Start</string>
+    <string name="restart">restart</string>
+    <string name="mine_sweeper">Mine Sweeper</string>
+    <string name="size">size</string>
+    <string name="bomb">bomb</string>
+    <string name="todo">TODO</string>
+    <string name="_00_00">Time: 00:00</string>
+    <string-array name="size_array">
+        <item>11x11</item>
+        <item>10x10</item>
+        <item>8x8</item>
+        <item>6x6</item>
+        <item>5x5</item>
+    </string-array>
+    <string-array name="count_array">
+        <item>Very hard</item>
+        <item>Hard</item>
+        <item>Medium</item>
+        <item>Easy</item>
+    </string-array>
+</resources>
